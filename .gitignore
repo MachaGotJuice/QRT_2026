@@ -13,3 +13,8 @@ venv/
 .aws/
 *.pem
 *.key
+
+# market prices from Yahoo Finance (too big for the repo)
+market_data/
+_to_delete/
+calendar/links.pkl
