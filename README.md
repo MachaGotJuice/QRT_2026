@@ -149,8 +149,4 @@ The challenge files (`data/`) and the Yahoo Finance prices (`market_data/`) are 
 
 ## Credits
 
-- This project was built with the help of **Claude** (Anthropic), used as a coding and research assistant:
-  exploring the data, writing and debugging code, running experiments and writing this README.
-- The public repository [RyanBalech/qrt-asset-allocation-reconstruction](https://github.com/RyanBalech/qrt-asset-allocation-reconstruction)
-  follows the same general idea (rebuild the history instead of predicting it) and inspired the direct
-  reading step.
+- This project was built with the help of **Claude** :)
